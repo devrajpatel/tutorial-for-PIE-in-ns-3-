@@ -1,4 +1,4 @@
-# A Tutorial on implementation of PIE in ns3
+# A Tutorial on implementation of PIE in ns-3
 This repo contains the tutorial for the implementation of PIE (Proportional Integral controller Enhanced) in ns3. It also includes the installation of ns3 followed by implementation of PIE so as to ensure low latency and achieve high link utilisation under various congestion situations.
 ## References
 [1] PIE: A Lightweight Control Scheme to Address the Bufferbloat Problem
